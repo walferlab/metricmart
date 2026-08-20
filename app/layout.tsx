@@ -34,16 +34,16 @@ export const metadata: Metadata = {
 
   // 3. Open Graph (For rich previews on Discord, WhatsApp, LinkedIn, Facebook)
   openGraph: {
-    title: 'PDF Lovers | Buy & Sell Digital Products',
-    description: 'Empower your digital journey with PDF Lovers. Buy, sell, and download premium ebooks and digital products instantly.',
-    url: 'https://pdflovers.app',
+    title: 'Metricmart | Buy & Sell Digital Products',
+    description: 'Empower your digital journey with Metricmart. Buy, sell, and download premium ebooks and digital products instantly.',
+    url: 'https://metricmart.in',
     siteName: 'PDF Lovers',
     images: [
       {
-        url: 'https://pdflovers.app/og-image.jpg',
+        url: 'https://metricmart.app/logo.png',
         width: 1200,
         height: 630,
-        alt: 'PDF Lovers Marketplace Preview',
+        alt: 'Metricmart Marketplace Preview',
       },
     ],
     locale: 'en_US',
@@ -53,9 +53,9 @@ export const metadata: Metadata = {
   // 4. Twitter Cards (For rich previews on X/Twitter)
   twitter: {
     card: 'summary_large_image',
-    title: 'PDF Lovers | The Digital Products Marketplace',
-    description: 'Empower your digital journey with PDF Lovers. Buy, sell, and download premium ebooks instantly.',
-    images: ['https://pdflovers.app/twitter-image.jpg'],
+    title: 'Metricmart | The Digital Products Marketplace',
+    description: 'Empower your digital journey with Metricmart. Buy, sell, and download premium ebooks instantly.',
+    images: ['https://metricmart.app/logo.png'],
   },
 
   // 5. Robots directives
